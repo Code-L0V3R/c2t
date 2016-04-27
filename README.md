@@ -2,4 +2,4 @@
 
 # Usage : python c2t.py
 
-# convert chr to ascii text .
+# convert chr( 32-128)to ascii text .
